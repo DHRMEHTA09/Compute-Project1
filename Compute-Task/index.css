@@ -1,0 +1,194 @@
+body
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #26335D;
+   
+}
+.intro
+{
+  height: 100vh;
+  background-color: #8D5CF6;
+
+
+}
+.navbar
+{
+  display: flex;
+  justify-content: space-between;
+  height: 91px;
+  width: 1322px;
+  margin: 0 auto;
+  /* padding-top: 20px; */
+}
+.mapsite
+{
+  width: 300px;
+  height: 24px;
+  top: 17px;
+  gap: 21px;
+  padding-top: 35px;
+
+}
+.mapsite a
+{
+  text-decoration: none;
+  color: white;
+  padding: 10px;
+  width: 43px;
+  height: 24px;
+  
+
+}
+.brandName
+{
+  width: 145px;
+  height: 32px;
+  top: 13px;
+}
+.brandName h3
+{
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 32px;
+  letter-spacing: 0.10000000149011612px;
+  text-align: left;
+  color: white;
+}
+.signup
+{
+  width: 300px;
+  height: 52px;
+  top: 3px;
+  left: 515px;
+  gap: 45px;
+  padding-top: 19px;
+
+
+}
+.signup button
+{
+  width: 137px;
+  height: 52px;
+  padding: 15px, 25px, 15px, 25px;
+  border-radius: 5px;
+  gap: 15px;
+  background-color: #FF7B52;
+  color: #FFFFFF;
+  border: 0;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 22px;
+  letter-spacing: 0.20000000298023224px;
+  /* float:right; */
+  /* margin-top: -10px; */
+
+
+}
+.signup a
+{
+   text-decoration: none;
+  color: white;
+  padding: 10px;
+  width: 43px;
+  height: 24px;
+  margin-right: 20px;
+}
+
+
+.container1
+{
+width:1,050px;
+height:720px;
+top: 104px;
+left: 195px;
+padding: 112px 24px 112px 24px;
+gap: 80px;
+}
+.innerContainer1
+{
+  width: 686px;
+  height: 496px;
+  Padding:40px, 0px, 40px, 0px;
+  Gap:40px;
+}
+.title
+{
+  width: 665px;
+  height: 160px;
+
+}
+.title h1
+{
+font-family: Montserrat;
+font-size: 58px;
+font-weight: 700;
+line-height: 80px;
+letter-spacing: 0.20000000298023224px;
+text-align: center;
+color: #FFFFFF;
+}
+.cont1description
+{
+  width: 570px;
+  height: 60px
+}
+.cont1description h4
+{
+  
+font-family: Montserrat;
+font-size: 20px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0.20000000298023224px;
+text-align: center;
+color: #FFFFFF;
+}
+.con1button
+{
+  width:365px;
+  height: 52px;
+  gap: 10px;
+  padding-top: 30px;
+
+}
+.con1button #butt1
+{
+width: 193px;
+height: 52px;
+padding: 15px 40px 15px 40px;
+border-radius: 5px;
+gap: 10px;
+font-family: Montserrat;
+font-size: 11px;
+font-weight: 700;
+line-height: 22px;
+letter-spacing: 0.20000000298023224px;
+text-align: center;
+background-color:  #FF7B52;
+color: #FFFFFF;
+border: 0;
+}
+.con1button #butt2
+{
+  width: 162px;
+  height: 52px;
+  padding: 15px, 40px, 15px, 40px;
+  border-radius: 5px;
+  border: 1px solid #FF7B52 ;
+  gap: 10px;
+  font-family: Montserrat;
+  font-size: 11px;
+  font-weight: 700;
+  line-height: 22px;
+  letter-spacing: 0.20000000298023224px;
+  text-align: center;
+  background-color: #8D5CF6;
+  color: white;
+
+
+}
+

@@ -1,0 +1,166 @@
+.sixthpage
+{
+ height: 100vh;
+ 
+  
+}
+.sixthcontainer
+{
+  width: 1,050px;
+  height: 928px;
+  left: 195px;
+  padding: 112px, 0px, 112px, 0px;
+  gap: 70px;
+  margin-top: -200px;
+  text-align: left;
+  margin-left: 160px;
+  
+
+}
+.sixthrow1
+{
+  margin-top: 120px;
+  width: 1,044px;
+  height: 134px;
+
+}
+.sixthdescription
+{
+  width: 691px;
+  height:150px;
+  gap: 10px;
+  text-align: left;
+
+}
+.sixthdescription h6
+{
+  width: 114px;
+  height: 24px;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0.20000000298023224px;
+  text-align: left;
+  color: #8D5CF6;
+
+
+}
+.sixthdescription h2
+{
+  width: 447px;
+  height: 50px;
+  font-family: Montserrat;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 50px;
+  letter-spacing: 0.20000000298023224px;
+  text-align: left;
+  color: #FFFFFF;
+  margin-top: -15px;
+
+
+}
+.sixthdescription p
+{
+  width: 469px;
+  height: 40px;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0.20000000298023224px;
+  text-align: left;
+  color: #FFFFFF;
+  margin-top: -15px;
+
+}
+.sixthcard
+{
+  margin-top: 120px;
+  width: 1199.2px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  
+  
+ 
+
+
+
+}
+.card6
+{
+margin: 10px;
+background-color: #FFFFFF;
+ box-shadow: 10px 10px 5px rgba(0, 0, 0,0.4);
+height: 500px;
+text-align: center;
+
+}
+.image6
+{
+  height: 128px;
+  width: 128px;
+  margin: auto;
+  padding-top: 30px;
+}
+.image6 img
+{
+  height: 128px;
+  width: 128px;
+  border-radius: 128px;
+  
+}
+.card6 p
+{
+  width: 320px;
+  height: 60px;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0.20000000298023224px;
+  text-align: center;
+  color: #737373;
+  padding: 60px;
+  padding-left: 130px;
+  padding-bottom: 0px;
+
+}
+.star
+{
+  /* width: 130.07px;
+  height: 22.01px;
+  gap: 5px; */
+  margin-top: -50px;
+
+}
+.card6 h5
+{
+  /* width: 105px;
+  height: 24px; */
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0.10000000149011612px;
+  text-align: center;
+  color: #252B42;
+  /* padding-left: 237px; */
+  margin-top: -30px;
+
+
+}
+.card6 h6
+{
+ 
+font-family: Montserrat;
+font-size: 14px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0.20000000298023224px;
+text-align: center;
+color: #737373;
+margin-top: -10px;
+
+}

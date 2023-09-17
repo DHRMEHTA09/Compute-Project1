@@ -1,0 +1,259 @@
+.thirdpage
+{
+ height: 100vh;
+ 
+  
+}
+.thirdcontainer
+{
+  width: 1,050px;
+  height: 768px;
+  left: 195px;
+  padding: 112px, 0px, 112px, 0px;
+  gap: 70px;
+  margin-left: 200px;
+  
+
+}
+.thirdrow1
+{
+  margin-top: 120px;
+  width: 1,044px;
+  height: 134px;
+
+}
+.thirddescription
+{
+  width: 691px;
+  height:150px;
+  gap: 10px;
+  text-align: left;
+
+}
+.thirddescription h6
+{
+  width: 114px;
+  height: 24px;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0.20000000298023224px;
+  text-align: left;
+  color: #8D5CF6;
+
+
+}
+.thirddescription h2
+{
+  width: 500px;
+  height: 50px;
+  font-family: Montserrat;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 50px;
+  letter-spacing: 0.20000000298023224px;
+  text-align: left;
+  color: #FFFFFF;
+  margin-top: -15px;
+
+
+}
+.thirddescription p
+{
+  width: 469px;
+  height: 40px;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0.20000000298023224px;
+  text-align: left;
+  color: #FFFFFF;
+  margin-top: -15px;
+
+}.thirdcard
+{
+  margin-top: 100px;
+  width: 1119.2px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  
+  
+ 
+
+
+
+}
+.card1
+{
+height: 550px;
+margin: 20px;
+background-color: #FFFFFF;
+box-shadow: 10px 10px 5px rgba(0, 0, 0,0.4);
+}
+.image3
+{
+  background-position: center;
+  background-size: cover;
+  height: 280px;
+}
+#image31
+{
+  background-image: url(images/product-cover-133\ sec-.png);
+}
+#image32
+{
+  background-image: url(images/product-cover-131.png);
+}
+#image33
+{
+  background-image: url(images/product-cover-130\ sec-.png);
+}
+#image34
+{
+  background-image: url(images/product-cover-132\ sec-.png);
+}
+.description3
+{
+  padding: 20px;
+}
+.description3 h4
+{
+  
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0.20000000298023224px;
+  text-align: left;
+  color: #8D5CF6;
+  margin: 10px;
+
+}
+.rating
+{
+  width: 50px;
+  height: 26px;
+  padding: 5px;
+  border-radius: 20px;
+  gap: 5px;
+  background: #26335D;
+  color:#FFFFFF;
+  font-family: Montserrat;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: 0.20000000298023224px;
+  text-align: left;
+  margin: 10px;
+  margin-left: 50px;
+
+
+}
+.topic
+{
+  
+font-family: Montserrat;
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0.10000000149011612px;
+text-align: left;
+color: #252B42;
+margin: 10px;
+
+
+}
+.description3 p
+{
+  
+font-family: Montserrat;
+font-size: 14px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0.20000000298023224px;
+text-align: left;
+color: #737373;
+width: 182px;
+margin: 10px;
+
+}
+.description3 h6
+{
+font-family: Montserrat;
+font-size: 14px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0.20000000298023224px;
+text-align: left;
+color: #737373;
+margin: 10px;
+
+}
+.pricesec
+{
+font-family: Montserrat;
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0.10000000149011612px;
+text-align: left;
+color: #737373;
+margin: 10px;
+
+}
+.pric
+{
+  color: #FF7B52;
+}
+.but33
+{
+  width: 141.14px;
+  height: 37px;
+  padding: 10px, 20px, 10px, 20px;
+  border-radius: 37px;
+  border: 3px solid #8D5CF6;
+  gap: 10px;
+  background-color: #FFFFFF;
+  color: #8D5CF6;
+
+font-family: Montserrat;
+font-size: 14px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0.20000000298023224px;
+text-align: left;
+
+
+}
+.image3 h6
+{
+  margin: 0;
+  padding: 0;
+  width: 51px;
+  height: 24px;
+  top: 20px;
+  left: 20px;
+  padding: 0px, 10px, 0px, 10px;
+  border-radius: 3px;
+  background-color: #E74040;
+  color: #FFFFFF;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0.20000000298023224px;
+  text-align: center;
+
+}
+.image3 p
+{
+  text-align: center;
+  margin-top: 200px;
+
+}
+.image3 img
+{
+  padding: 10px;
+}

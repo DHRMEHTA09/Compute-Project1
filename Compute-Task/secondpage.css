@@ -1,0 +1,165 @@
+.secondpage
+{
+ height: 100vh;
+ 
+  
+}
+.secondcontainer
+{
+  width: 1,050px;
+  height: 768px;
+  left: 195px;
+  padding: 112px, 0px, 112px, 0px;
+  gap: 70px;
+  margin-left: 200px;
+  
+
+}
+.secondrow1
+{
+  margin-top: 120px;
+  width: 1,044px;
+  height: 134px;
+
+}
+.seconddescription
+{
+  width: 691px;
+  height:150px;
+  gap: 10px;
+  text-align: left;
+
+}
+.seconddescription h6
+{
+  width: 114px;
+  height: 24px;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0.20000000298023224px;
+  text-align: left;
+  color: #8D5CF6;
+
+
+}
+.seconddescription h2
+{
+  width: 431px;
+  height: 50px;
+  font-family: Montserrat;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 50px;
+  letter-spacing: 0.20000000298023224px;
+  text-align: left;
+  color: #FFFFFF;
+  margin-top: -15px;
+
+
+}
+.seconddescription p
+{
+  width: 469px;
+  height: 40px;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0.20000000298023224px;
+  text-align: left;
+  color: #FFFFFF;
+  margin-top: -15px;
+
+}
+.secondcard
+{
+  margin-top: 120px;
+  width: 1119.2px;
+  height: 340px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  
+  
+ 
+
+
+
+}
+.card
+{
+
+margin: 20px;
+background-color: #FFFFFF;
+ box-shadow: 10px 10px 5px rgba(0, 0, 0,0.4);
+height: 300px;
+
+}
+#box-down,#box-down1
+{
+ margin-top: 50px;
+}
+#box-up,#box-up1
+{
+ margin-bottom: 50px;
+}
+#box-up1
+{
+  background-color: #8D5CF6;
+}
+.booklib
+{
+  width:  70px;
+  height:  76px;
+  padding: 22px, 19px, 22px, 19px;
+  border-radius: 10px;
+  gap: 10px;
+  background-color: #F6F7FB;
+
+}
+.booklib img
+{
+  padding: 20px;
+}
+.innersecond
+{
+  padding: 35px;
+}
+.innersecond h5
+{
+font-family: Montserrat;
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0.10000000149011612px;
+text-align: left;
+color: black;
+
+}
+.innersecond hr
+{
+background-color: #FF7B52;
+ border: 0;
+ width: 60px;
+ margin: 0;
+}
+.innersecond p
+{
+font-family: Montserrat;
+font-size: 14px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0.20000000298023224px;
+text-align: left;
+color: #737373;
+
+}
+#booklib2
+{
+  background-color:#DDF4FF;
+}
+#booklib4
+{
+  background-color: #FFF2F3;
+}

@@ -1,0 +1,161 @@
+.seventhpage
+{
+ height: 100vh;
+ 
+  
+}
+.seventhcontainer
+{
+  width: 1,050px;
+  height: 768px;
+  left: 195px;
+  padding: 112px, 0px, 112px, 0px;
+  gap: 70px;
+  margin-left: 200px;
+  margin-top: 200px;
+
+}
+.seventhrow1
+{
+  margin-top: 120px;
+  width: 1,044px;
+  height: 134px;
+
+}
+.seventhdescription
+{
+  width: 691px;
+  height:150px;
+  gap: 10px;
+  text-align: left;
+
+}
+.seventhdescription h6
+{
+  width: 114px;
+  height: 24px;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0.20000000298023224px;
+  text-align: left;
+  color: #8D5CF6;
+
+
+}
+.seventhdescription h2
+{
+  width: 500px;
+  height: 50px;
+  font-family: Montserrat;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 50px;
+  letter-spacing: 0.20000000298023224px;
+  text-align: left;
+  color: #FFFFFF;
+  margin-top: -15px;
+
+
+}
+.seventhdescription p
+{
+  width: 469px;
+  height: 40px;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 0.20000000298023224px;
+  text-align: left;
+  color: #FFFFFF;
+  margin-top: -15px;
+
+}.seventhcard
+{
+  margin-top: 100px;
+  width: 1119.2px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  
+  
+ 
+
+
+
+}
+.card7
+{
+height: 380px;
+margin: 20px;
+background-color: #FFFFFF;
+box-shadow: 10px 10px 5px rgba(0, 0, 0,0.4);
+border-radius: 10px;
+}
+.image7
+{
+  background-position: center;
+  background-size: cover;
+  height: 230px;
+  border-radius: 10px 10px 0 0;
+}
+#image71
+{
+  background-image: url(images/fixed-height\ sec-.png);
+}
+#image72
+{
+  background-image: url(images/user-cover-2.png);
+}
+#image73
+{
+  background-image: url(images/user-cover-3.png);
+}
+#image74
+{
+  background-image: url(images/user-cover-4.png);
+}
+.description7
+{
+  width: 100%;
+  height: 150px;
+  text-align: center;
+
+}
+.description7 h5
+{
+  
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0.10000000149011612px;
+  color: #252B42;
+  margin-bottom: 10px;
+
+
+}
+.description7 small
+{
+  
+  font-family: Montserrat;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: 0.20000000298023224px;
+  text-align: center;
+  color:#737373;
+
+}
+.description7 p
+{
+  margin-top: 0;
+}
+
+.description7 img
+{
+  padding-top: 0;
+  padding: 10px;
+
+}
